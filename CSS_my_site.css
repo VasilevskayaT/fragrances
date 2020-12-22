@@ -74,7 +74,7 @@ body {
 .card-text {
     font-size: 16px;
     margin-left: 13px;
-
+    overflow: hidden;
 }
 
 .card-image {
